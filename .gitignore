@@ -1,0 +1,11 @@
+audit/
+audit_test/
+evidence_test/
+test.db*
+
+# Local configuration and secrets
+config.properties
+
+# Maven build output
+target/
+
